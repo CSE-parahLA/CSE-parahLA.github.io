@@ -1,17 +1,21 @@
 body {
-    background: khaki;
+    background: rgb(36, 103, 24);
     font-family: Arial, sans-serif;
     border-style: solid;
 }
 
 h1{
-    color: darkgreen;
+    color: whitesmoke;
     text-align: center;
 }
 
 h2{
-    color:darkgreen;
+    color:whitesmoke;
     font-family: "Papyrus", monospace;
 
 
+}
+h3{
+    color:whitesmoke;
+    
 }
