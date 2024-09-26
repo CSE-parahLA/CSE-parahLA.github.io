@@ -17,6 +17,7 @@ h2{
 }
 h3{
     color:rgb(13, 13, 13);
+    text-align: center;
 }
 
 .projects { 
@@ -24,9 +25,9 @@ h3{
     flex-wrap:wrap; }
   
 .project {
-    width: 30%;
+    width: 160%;
     margin: 1px;
     padding: 20px 10px;
     background: white; /* pick a color */
-    border-radius: 25%;
+    border-radius: 10%;
 }
