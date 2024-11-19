@@ -50,6 +50,7 @@ a {
 .project p {
     text-align: center;
     margin: 15px;
+    color: #ffffff;
 }
 
 /* Add padding and margins to the individual section divs */
@@ -80,3 +81,7 @@ a {
     margin: auto;
     line-height: 125%;
     }
+
+.skills p{
+    color: #ffffff;
+}
