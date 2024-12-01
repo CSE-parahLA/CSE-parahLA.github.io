@@ -1,22 +1,22 @@
 body {
-    background: darkgreen;
+    background: #ffe3b3;
     font-family: Arial, sans-serif;
     padding: 20px; /* Added padding to prevent margin collapse */
 }
 
 h1 {
-    color: whitesmoke;
+    color: rgb(19, 102, 180);
     text-align: center;
 }
 
 h2 {
-    color: whitesmoke;
+    color: rgb(19, 102, 180);
     font-family: "Papyrus", monospace;
     margin-bottom: 20px; /* Adds space below h2 */
 }
 
 h3 {
-    color: rgb(13, 13, 13);
+    color: rgb(19, 102, 180);
     text-align: center;
 }
 
@@ -44,13 +44,13 @@ h3 {
 
 a {
     text-decoration: none;
-    color: purple;
+    color: rgb(19, 102, 180);
 }
 
 .project p {
     text-align: center;
     margin: 15px;
-    color: #ffffff;
+    color: rgb(19, 102, 180);
 }
 
 /* Add padding and margins to the individual section divs */
@@ -83,5 +83,5 @@ a {
     }
 
 .skills p{
-    color: #ffffff;
+    color: rgb(19, 102, 180);
 }
